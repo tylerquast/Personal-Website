@@ -48,6 +48,9 @@ a:hover{
 	font-size: 20px;
 	padding: 20px;
 }
+.floated_img{
+	float:left;
+}
 
 
 
